@@ -1,6 +1,6 @@
 # micp_to_eptr
 
-  Estimate the eptr from MICP data.
+  Estimate the eeffective pore-throat radius from MICP data.
 
   Parameters
   ----------

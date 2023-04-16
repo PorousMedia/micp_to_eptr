@@ -1,6 +1,6 @@
 # micp_to_eptr
 
-  Apply mipv cut-off to MICP data.
+  Estimate the eptr from MICP data.
 
   Parameters
   ----------

@@ -1,17 +1,10 @@
-# micp_to_eptr
+# Pore micorstructural and flow modelling of rocks.
+### Estimating effective pore-throat radius from MICP data.
 
-  Estimates eeffective pore-throat radius from MICP data.
+Lead Invsestigator: Olubukola Ishola (olubukola.ishola@okstate.edu)\
+Co-Investigator: Javier Vilcaez\
+Associated Paper: Augmenting Xray micro-CT data with MICP data for high resolution pore-microstructural and flow modelling of carbonate rocks.\
+DOI:
 
-  Parameters
-  ----------
-  micp_data : float, dataframe\
-      Columns in the order : Pressure (psia)	Pore Radius (µm)	Incremental Pore Volume (mL/g)	Cumulative Pore Volume (mL/g).\
-  threshold : float, Optional\
-      Threshold for applying mipv. Default is 0.99.\
-  show_data : bolean, Optional\
-      An option to show details of mipv cut-off point. Default is True.
-
-  Returns
-  -------
-   micp_data : float, dataframe\
-      micp_data input truncated at the mipv cut-off. Columns in the order : Pressure (psia)	Pore Radius (µm)	Incremental Pore Volume (mL/g)	Cumulative Pore Volume (mL/g). 
+The notebook shows the principle behind the minimum incremental pore volume (MIPV) and estimating the effective pore-throat radius (EPTR) as outlined in steps in the paper above.
+Please see the paper for more details.

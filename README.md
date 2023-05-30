@@ -1,4 +1,4 @@
-# Pore micorstructural and flow modelling of rocks.
+# Pore microstructural and flow modelling of rocks.
 ### Estimating effective pore-throat radius from MICP data.
 
 Lead Invsestigator: Olubukola Ishola (olubukola.ishola@okstate.edu)\
